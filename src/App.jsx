@@ -1,7 +1,7 @@
 import Header from "./components/Header";
 import Navigation from "./components/Navigation";
 import Main from "./components/Main";
-import Image from "./components/image";
+import Image from "./components/Image";
 import Footer from "./components/Footer";
 import Welcome from "./components/Welcome";
 
